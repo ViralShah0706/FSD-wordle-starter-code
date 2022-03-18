@@ -19,4 +19,4 @@ main.py - Contains a defined function, delayed_print() which helps in printing t
 valid_words.txt - Contains a list of valid words. You must use this in your isvalid() function
 wordle.py - Contains the complete driver code for the game. It uses helper functions like getword(), isvalid(), colorit(), update()
 
-Your goal is to define the incomplete functions in helper_functions.py and main.py.
+Your goal is to define the incomplete functions in helper_functions.py and main.py and make the code completely functional!
