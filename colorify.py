@@ -1,3 +1,4 @@
+#test commit
 from termcolor import colored
 
 def colorit(guessed_word, word): #guessed word is the one guessed by the player and word is the correct word that is to be guessed
